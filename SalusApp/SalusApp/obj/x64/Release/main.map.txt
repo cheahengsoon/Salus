@@ -1,0 +1,23 @@
+[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+"ResourceDimensions"		"language-en-US"
+
+[Files]
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\split.pri"			"resources.pri"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\SalusApp.exe"			"SalusApp.exe"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\SalusApp.dll"			"SalusApp.dll"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\police_alarm.mp3"			"police_alarm.mp3"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\ClrCompression.dll"			"ClrCompression.dll"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\Images\salus-background.png"			"Images\salus-background.png"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\Images\police.png"			"Images\police.png"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\Images\message.png"			"Images\message.png"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\Images\hospital.png"			"Images\hospital.png"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\Images\alarm.png"			"Images\alarm.png"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\Assets\StoreLogo.png"			"Assets\StoreLogo.png"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\Assets\Square44x44Logo.targetsize-24_altform-unplated.png"			"Assets\Square44x44Logo.targetsize-24_altform-unplated.png"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\obj\x64\Release\PackageLayout\Assets\LockScreenLogo.scale-200.png"			"Assets\LockScreenLogo.scale-200.png"

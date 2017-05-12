@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="901KarateKidsStudio.Salus" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://901KarateKidsStudio.Salus/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BlankPage1.xbf" uri="ms-resource://901KarateKidsStudio.Salus/Files/BlankPage1.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://901KarateKidsStudio.Salus/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="police_alarm.mp3" uri="ms-resource://901KarateKidsStudio.Salus/Files/police_alarm.mp3">
+				<Candidate type="Path">
+					<Value>police_alarm.mp3</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SalusApp.xr.xml" uri="ms-resource://901KarateKidsStudio.Salus/Files/SalusApp.xr.xml">
+				<Candidate type="Path">
+					<Value>SalusApp.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://901KarateKidsStudio.Salus/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://901KarateKidsStudio.Salus/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://901KarateKidsStudio.Salus/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://901KarateKidsStudio.Salus/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://901KarateKidsStudio.Salus/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://901KarateKidsStudio.Salus/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Images">
+				<NamedResource name="alarm.png" uri="ms-resource://901KarateKidsStudio.Salus/Files/Images/alarm.png">
+					<Candidate type="Path">
+						<Value>Images\alarm.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="hospital.png" uri="ms-resource://901KarateKidsStudio.Salus/Files/Images/hospital.png">
+					<Candidate type="Path">
+						<Value>Images\hospital.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="message.png" uri="ms-resource://901KarateKidsStudio.Salus/Files/Images/message.png">
+					<Candidate type="Path">
+						<Value>Images\message.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="police.png" uri="ms-resource://901KarateKidsStudio.Salus/Files/Images/police.png">
+					<Candidate type="Path">
+						<Value>Images\police.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="salus-background.png" uri="ms-resource://901KarateKidsStudio.Salus/Files/Images/salus-background.png">
+					<Candidate type="Path">
+						<Value>Images\salus-background.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://901KarateKidsStudio.Salus/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://901KarateKidsStudio.Salus/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

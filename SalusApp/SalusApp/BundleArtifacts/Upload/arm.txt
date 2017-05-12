@@ -1,0 +1,2 @@
+MainPackage=c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\bin\ARM\Release\Upload\SalusApp_1.1.0.0_ARM.appx
+SymbolPackage=c:\users\es.cheah\documents\visual studio 2015\Projects\SalusApp\SalusApp\AppPackages\SalusApp_1.1.0.0\SalusApp_1.1.0.0_ARM.appxsym
