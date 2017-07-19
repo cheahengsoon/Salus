@@ -219,10 +219,10 @@ namespace SalusApp
             }
         }
 
-        private void btnGPSSettings_Tapped(object sender, TappedRoutedEventArgs e)
+        private async void btnGPSSettings_Tapped(object sender, TappedRoutedEventArgs e)
         {
             var uri = new Uri("ms-settings:privacy-location");
-
+            await Launcher.LaunchUriAsync(uri);
         }
     }
 }
